@@ -1,6 +1,6 @@
 # Sigma Orionis DBNets Analysis
 
-<img width="5255" height="2864" alt="plot_1_mp" src="https://github.com/user-attachments/assets/c097d0cb-eab9-4e0a-886d-f68e7dbfbbb6" />
+<img width="800" alt="plot_1_mp" src="https://github.com/user-attachments/assets/c097d0cb-eab9-4e0a-886d-f68e7dbfbbb6" />
 
 This repository contains the analysis and visualization code used to evaluate the applicability of DBNets2.0 to protoplanetary disks in the σ Orionis star-forming region.
 
@@ -21,12 +21,7 @@ Protoplanetary disks are disks of gas and dust surrounding young stars where pla
 
 DBNets2.0 is a deep learning model that estimates hidden planet properties from observed disk structures. Previous work primarily focused on nearby star-forming regions. This project explores whether the same methodology can be extended to the more distant σ Orionis region.
 
-## Project Objectives
-
-The project focused on three primary goals:
-- Apply the published DBNets2.0 model to candidate gaps identified in σ Orionis disks.
-- Compare the inferred planet and disk properties with the published DBNets2.0 population.
-- Evaluate whether the model produces consistent predictions for a more distant star-forming region.
+This project investigates whether DBNets2.0 can be successfully applied to the more distant σ Orionis star-forming region by comparing the inferred planet and disk properties with the published DBNets2.0 population.
 
 ## Methodology
 
@@ -57,18 +52,27 @@ These figures compare:
 - σ Orionis predictions
 - Solar System planets (for the planet mass comparison)
 
+## Requirements
+
+- Python 3.x
+- pandas
+- matplotlib
+- numpy
+
+Install the required packages with:
+
+```
+pip install pandas matplotlib numpy
+```
+
 ## Running the Analysis
-
-Update the file paths in the notebook (or Python script) so they point to your local copies of the CSV files.
-
-Then simply run the notebook from top to bottom.
-
-The scripts will generate the comparison figures used in the research poster.
 
 1. Install the required Python packages.
 2. Update the file paths in the notebook to match your local directory.
 3. Run the notebook from top to bottom.
 4. The figures will be saved in the outputs/ directory.
+
+The notebooks will generate the comparison figures used in the research poster.
 
 ## Sources
 
@@ -76,9 +80,9 @@ This project uses published data from:
 - A. Ruzza, G. Lodato, G. P. Rosotti, and P. J. Armitage, “DBNets2.0: Simulation-based inference for planet-induced dust substructures in protoplanetary discs,” Astronomy & Astrophysics, vol. 700, p. A190, Aug. 2025.
 - J. Huang et al., “High-resolution ALMA Observations of Richly Structured Protoplanetary Disks in σ Orionis,” The Astrophysical Journal, vol. 976, no. 1, p. 132, Nov. 2024.
 
-## Poster
+## Research Poster
 
-The final research poster used to present this project will be included in the poster/ directory.
+The final research poster is available below.
 <!-- (insert poster preview image)
 
 [Download Poster (PDF)] -->
