@@ -83,11 +83,10 @@ This project uses published data from:
 
 ## Research Poster
 
-The final research poster is included below and is also available as a PDF.
+The final research poster and abstract are available below.
 
-<!-- (insert poster preview image)
-
-[Download Poster (PDF)] -->
+<!-- [Research Poster (PDF)](...)
+[Abstract (PDF)](...) -->
 
 ## Acknowledgements
 
