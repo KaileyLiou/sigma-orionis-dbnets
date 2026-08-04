@@ -1,10 +1,19 @@
 # Sigma Orionis DBNets Analysis
 
+<img width="5255" height="2864" alt="plot_1_mp" src="https://github.com/user-attachments/assets/c097d0cb-eab9-4e0a-886d-f68e7dbfbbb6" />
+
 This repository contains the analysis and visualization code used to evaluate the applicability of DBNets2.0 to protoplanetary disks in the σ Orionis star-forming region.
 
 Using the published DBNets2.0 framework, we analyzed candidate gaps identified in σ Orionis disks and compared the inferred planet and disk properties with the published DBNets2.0 population. The goal of this project was to investigate whether DBNets2.0 can produce consistent predictions for a more distant star-forming region than those previously studied.
 
-This work was completed as part of a research project under the guidance of Dr. Jane Huang.
+This work was completed as part of the Columbia ENG Foundations of Research program under the guidance of Dr. Jane Huang.
+
+## Project Overview
+
+- Applied DBNets2.0 to Σ Orionis protoplanetary disks.
+- Analyzed 11 candidate gaps.
+- Compared inferred properties with the published DBNets2.0 population.
+- Generated the figures used in our research poster.
 
 ## Background
 
@@ -26,7 +35,7 @@ The workflow for this project consisted of the following steps:
 1. Collected published DBNets2.0 comparison data from the supplementary materials of the original paper.
 2. Created formatted CSV files containing the published planet and disk properties.
 3. Applied DBNets2.0 to selected Σ Orionis candidate gaps.
-4. Recorded the predicted quantities along with the associated uncertainties and confidence scores.
+4. Recorded the predicted quantities, along with their associated uncertainties and confidence scores:
 - planet mass
 - orbital distance
 - disk aspect ratio
@@ -48,6 +57,19 @@ These figures compare:
 - σ Orionis predictions
 - Solar System planets (for the planet mass comparison)
 
+## Running the Analysis
+
+Update the file paths in the notebook (or Python script) so they point to your local copies of the CSV files.
+
+Then simply run the notebook from top to bottom.
+
+The scripts will generate the comparison figures used in the research poster.
+
+1. Install the required Python packages.
+2. Update the file paths in the notebook to match your local directory.
+3. Run the notebook from top to bottom.
+4. The figures will be saved in the outputs/ directory.
+
 ## Sources
 
 This project uses published data from:
@@ -57,6 +79,9 @@ This project uses published data from:
 ## Poster
 
 The final research poster used to present this project will be included in the poster/ directory.
+<!-- (insert poster preview image)
+
+[Download Poster (PDF)] -->
 
 ## Acknowledgements
 
