@@ -30,7 +30,6 @@ The workflow for this project consisted of the following steps:
 3. Applied DBNets2.0 to selected σ Orionis candidate gaps.
 4. Recorded the predicted quantities, along with their associated uncertainties and confidence scores:
    - Planet mass
-   - Orbital distance
    - Disk aspect ratio
    - Viscosity parameter
    - Stokes number
@@ -78,8 +77,8 @@ The notebooks will generate the comparison figures used in the research poster.
 ## References
 
 This project uses published data from:
-- A. Ruzza, G. Lodato, G. P. Rosotti, and P. J. Armitage, “DBNets2.0: Simulation-based inference for planet-induced dust substructures in protoplanetary discs,” Astronomy & Astrophysics, vol. 700, p. A190, Aug. 2025.
-- J. Huang et al., “High-resolution ALMA Observations of Richly Structured Protoplanetary Disks in σ Orionis,” The Astrophysical Journal, vol. 976, no. 1, p. 132, Nov. 2024.
+- A. Ruzza, G. Lodato, G. P. Rosotti, and P. J. Armitage, “DBNets2.0: Simulation-based inference for planet-induced dust substructures in protoplanetary discs,” *Astronomy & Astrophysics*, vol. 700, p. A190, Aug. 2025.
+- J. Huang *et al*., “High-resolution ALMA Observations of Richly Structured Protoplanetary Disks in σ Orionis,” *The Astrophysical Journal*, vol. 976, no. 1, p. 132, Nov. 2024.
 
 ## Research Poster
 
