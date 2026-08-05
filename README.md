@@ -52,10 +52,10 @@ These figures compare:
 - Solar System planets (for the planet mass comparison)
 
 <p align="center">
-   <img width="800" alt="plot_1_mp" src="https://github.com/user-attachments/assets/c097d0cb-eab9-4e0a-886d-f68e7dbfbbb6" />
+  <img width="800" alt="plot_1_mp" src="https://github.com/user-attachments/assets/c097d0cb-eab9-4e0a-886d-f68e7dbfbbb6" />
+  <br>
+  <em>Figure 1. Comparison of predicted σ Orionis planet masses with the published DBNets2.0 population.</em>
 </p>
-
-*Figure 1. Comparison of predicted σ Orionis planet masses with the published DBNets2.0 population.*
 
 ## Requirements
 
