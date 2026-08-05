@@ -1,6 +1,8 @@
 # Sigma Orionis DBNets Analysis
 
-<!-- POSTER IMAGE -->
+<p align="center">
+   <img width="900" alt="finalposter" src="https://github.com/user-attachments/assets/d5946bf3-dc2a-4570-8a26-e18fb4853ae7" />
+</p>
 
 This repository contains the analysis and visualization code used to evaluate the applicability of DBNets2.0 to the σ Orionis star-forming region.
 
@@ -49,7 +51,9 @@ These figures compare:
 - σ Orionis predictions
 - Solar System planets (for the planet mass comparison)
 
-<img width="800" alt="plot_1_mp" src="https://github.com/user-attachments/assets/c097d0cb-eab9-4e0a-886d-f68e7dbfbbb6" />
+<p align="center">
+   <img width="800" alt="plot_1_mp" src="https://github.com/user-attachments/assets/c097d0cb-eab9-4e0a-886d-f68e7dbfbbb6" />
+</p>
 
 *Figure 1. Comparison of predicted σ Orionis planet masses with the published DBNets2.0 population.*
 
@@ -82,10 +86,10 @@ This project uses published data from:
 
 ## Research Poster
 
-The final research poster and abstract are available below.
+The final research poster and abstract are available below:
 
-<!-- [Research Poster (PDF)](...)
-[Abstract (PDF)](...) -->
+[Research Poster]()<br>
+[Abstract](https://drive.google.com/file/d/1ERlPTiC4Za3d-o1X1V65OI9ALUMwHQ6z/view?usp=sharing)
 
 ## Acknowledgements
 
