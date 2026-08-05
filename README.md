@@ -88,7 +88,7 @@ This project uses published data from:
 
 The final research poster and abstract are available below:
 
-[Research Poster]()<br>
+[Research Poster](https://drive.google.com/file/d/1OIrOtCjfVbmraP_URJOdOphN46_qVPAs/view?usp=sharing)<br>
 [Abstract](https://drive.google.com/file/d/1ERlPTiC4Za3d-o1X1V65OI9ALUMwHQ6z/view?usp=sharing)
 
 ## Acknowledgements
