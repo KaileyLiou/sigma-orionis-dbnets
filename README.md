@@ -12,10 +12,10 @@ This work was completed as part of the Columbia ENG Foundations of Research prog
 
 ## Project Overview
 
-- Applied DBNets2.0 to σ Orionis protoplanetary disks.
-- Analyzed 11 candidate gaps.
-- Compared inferred properties with the published DBNets2.0 population.
-- Generated the figures used in our research poster.
+- Applied DBNets2.0 to σ Orionis protoplanetary disks
+- Analyzed 11 candidate gaps
+- Compared inferred properties with the published DBNets2.0 population
+- Generated the figures used in our research poster
 
 ## Background
 
@@ -27,16 +27,16 @@ DBNets2.0 is a deep learning model that estimates hidden planet properties from 
 
 The workflow for this project consisted of the following steps:
 
-1. Collected published DBNets2.0 comparison data from the supplementary materials of the original paper.
-2. Created formatted CSV files containing the published planet and disk properties.
-3. Applied DBNets2.0 to selected σ Orionis candidate gaps.
+1. Collected published DBNets2.0 comparison data from the supplementary materials of the original paper
+2. Created formatted CSV files containing the published planet and disk properties
+3. Applied DBNets2.0 to selected σ Orionis candidate gaps
 4. Recorded the predicted quantities, along with their associated uncertainties and confidence scores:
    - Planet mass
    - Disk aspect ratio
    - Viscosity parameter
    - Stokes number
-5. Reproduced comparison figures using Matplotlib.
-6. Compared σ Orionis predictions with the published DBNets2.0 population.
+5. Reproduced comparison figures using Matplotlib
+6. Compared σ Orionis predictions with the published DBNets2.0 population
 
 ## Figures
 
@@ -72,9 +72,9 @@ pip install pandas matplotlib numpy
 
 ## Running the Analysis
 
-1. Install the required Python packages.
-2. Update the file paths in the notebook to match your local directory.
-3. Run the notebook from top to bottom.
+1. Install the required Python packages
+2. Update the file paths in the notebook to match your local directory
+3. Run the notebook from top to bottom
 
 The notebooks will generate the comparison figures used in the research poster.
 
